@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hiiragi</h1>
 
+<p align="center">
 ### Education 🏫
 * Informatics student at VNU-HCM High School for the Gifted.
 * Information Processing Science student at University of Oulu.
+</p>
 
 ### Working 🧑‍💻
 
