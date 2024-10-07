@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hiiragi</h1>
+<h1 align="center">Hi 👋, I'm Quoc</h1>
 
 
 ### Education 🏫
