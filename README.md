@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Quoc</h1>
 
 
+### Career 💼
+* Software Developer @ VUO AI
+
+
 ### Education 🏫
 * Informatics student at VNU-HCM High School for the Gifted.
 * Information Processing Science student at University of Oulu.
