@@ -2,7 +2,7 @@
 
 
 ### Career 💼
-* Software Developer @ VUO AI
+* Software Developer Intern @ VUO AI
 
 
 ### Education 🏫
